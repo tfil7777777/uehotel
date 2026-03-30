@@ -1,0 +1,5 @@
+com\hotely5d\controller\ScenicSpotController.class
+com\hotely5d\entity\ScenicSpot.class
+com\hotely5d\dao\ScenicSpotMapper.class
+com\hotely5d\service\impl\ScenicSpotServiceImpl.class
+com\hotely5d\service\ScenicSpotService.class
